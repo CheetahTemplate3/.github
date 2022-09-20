@@ -36,6 +36,8 @@ rolled out.
 
 [cheetahtemplate-discuss](https://sourceforge.net/projects/cheetahtemplate/lists/cheetahtemplate-discuss) mailing lists is for discussions.
 
+StackOverflow: https://stackoverflow.com/questions/tagged/cheetah
+
 ## For developers and contributors
 
 To help Cheetah3 please send
