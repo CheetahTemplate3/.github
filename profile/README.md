@@ -6,9 +6,9 @@ Cheetah3 is a free and open source template engine for Python.
 It currently supports Python 2.7 and 3.4+. License: MIT.
 
 One can install a precompiled version from
-[PyPI](https://pypi.org/project/Cheetah3/) using command
+[PyPI](https://pypi.org/project/CT3/) using command
 
-    pip install cheetah3
+    pip install CT3
 
 This is a small example:
 
